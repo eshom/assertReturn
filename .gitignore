@@ -1,0 +1,7 @@
+setup_pkg.R
+
+# IDE related
+*.~undo-tree~
+
+# R related
+.Rhistory

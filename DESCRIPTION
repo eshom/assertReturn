@@ -1,0 +1,17 @@
+Package: assertReturn
+Title: Assert the Return Value of Functions
+Version: 0.0.1
+Date: 2022-03-19
+Authors@R:
+    person(given = "Erez",
+           family = "Shomron",
+           role = c("aut", "cre"),
+           email = "erezshomron@mykolab.com")
+Maintainer: Erez Shomron <erezshomron@mykolab.com>
+Description: Function that wraps function objects with an assert expression.
+    The wrapper checks if the return value class matches the expected output object class.
+License: LGPL (>= 3)
+Depends: R (>= 4.0)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
